@@ -10,3 +10,7 @@ A proof-of-concept for using transformers with a textual entailment task to dete
 ## huggingface space
 
 Check out a detailed explanation of this project + an interactive example using [huggingface spaces](https://huggingface.co/spaces/amandakonet/climate-change-misinformation)!
+
+## huggingface model card
+
+Information about the model and a code example can be found on the [model card](https://huggingface.co/amandakonet/climatebert-fact-checking)
